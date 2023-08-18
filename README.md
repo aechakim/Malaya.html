@@ -68,8 +68,6 @@ body {
 
 
 </style>
-</head>
-<body>
 
 <h2>MY WEBSITE GALLERY/VIDEOS</h2>
 <p>see you again 2025.</p>
@@ -121,50 +119,36 @@ body {
 
 
 
-<!DOCTYPE html>
-<html>
-<body>
-
 <video width="420" height="340" controls>
   <source src="bts.mp4" type="video/mp4">
   <source src="bts.mp4" type="video/ogg">
   Your browser does not support the video tag.
 </video>
 
-</body>
-</html>
 <video width="420" height="340" controls>
     <source src="btss.mp4" type="video/mp4">
     <source src="btss.mp4" type="video/ogg">
     Your browser does not support the video tag.
   </video>
 
-</body>
-</html>
 <video width="420" height="340" controls>
     <source src="btsss.mp4" type="video/mp4">
     <source src="btsss.mp4" type="video/ogg">
     Your browser does not support the video tag.
   </video>
 
-</body>
-</html>
 <video width="420" height="340" controls>
     <source src="btssss.mp4" type="video/mp4">
     <source src="btssss.mp4" type="video/ogg">
     Your browser does not support the video tag.
   </video>
 
-</body>
-</html>
 <video width="420" height="340" controls>
     <source src="btsssss.mp4" type="video/mp4">
     <source src="btsssss.mp4" type="video/ogg">
     Your browser does not support the video tag.
   </video>
 
-</body>
-</html>
 <video width="420" height="340" controls>
     <source src="btsssssss.mp4" type="video/mp4">
     <source src="btsssssss.mp4" type="video/ogg">
@@ -176,10 +160,6 @@ body {
 
 
 
-  <!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 div.scroll-container {
   background-color: #333;
@@ -207,14 +187,15 @@ div.scroll-container img {
   <img src="ravennnnn.jpg" alt="Mountains" width="400" height="500">
 </div>
 
-</body>
-</html>
-
-</body>
-</html>
 <p>march to august dump</p>
 <video width="220" height="340" controls>
     <source src="ako.mp4" type="video/mp4">
     <source src="ako.mp4" type="video/ogg">
     Your browser does not support the video tag.
   </video>
+
+
+
+
+
+
